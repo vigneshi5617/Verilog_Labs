@@ -1,0 +1,16 @@
+{D:/VLSI Programs/Verilog Labs/LAB - 5 MEMORY(RAM)/rtl/ram.v} {1 {vlog -work work -stats=none {D:/VLSI Programs/Verilog Labs/LAB - 5 MEMORY(RAM)/rtl/ram.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module ram
+
+Top level modules:
+	ram
+
+} {} {}} {D:/VLSI Programs/Verilog Labs/LAB - 5 MEMORY(RAM)/tb/ram_tb.v} {2 {vlog -work work -stats=none {D:/VLSI Programs/Verilog Labs/LAB - 5 MEMORY(RAM)/tb/ram_tb.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module ram_tb
+** Warning: D:/VLSI Programs/Verilog Labs/LAB - 5 MEMORY(RAM)/tb/ram_tb.v(37): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+Top level modules:
+	ram_tb
+
+} {} {}}

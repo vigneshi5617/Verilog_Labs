@@ -1,0 +1,57 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/20.1
+vram
+Z0 !s110 1652727731
+!i10b 1
+!s100 `R@A?]giV?`nWkA[b:?2e0
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+Ige>``=gW]bHL9P9za2ml=3
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dD:/VLSI Programs/Verilog Labs/LAB - 5 MEMORY(RAM)/sim
+w1652726532
+8D:/VLSI Programs/Verilog Labs/LAB - 5 MEMORY(RAM)/rtl/ram.v
+FD:/VLSI Programs/Verilog Labs/LAB - 5 MEMORY(RAM)/rtl/ram.v
+!i122 15
+L0 20 25
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1652727731.000000
+!s107 D:/VLSI Programs/Verilog Labs/LAB - 5 MEMORY(RAM)/rtl/ram.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/VLSI Programs/Verilog Labs/LAB - 5 MEMORY(RAM)/rtl/ram.v|
+!i113 1
+Z6 o-work work
+Z7 tCvgOpt 0
+vram_tb
+R0
+!i10b 1
+!s100 _5A1SdF`Xk=cnAQXUjJfT0
+R1
+IO^WLWaUA9>8Z;CLhz]UJ;0
+R2
+R3
+w1652727689
+8D:/VLSI Programs/Verilog Labs/LAB - 5 MEMORY(RAM)/tb/ram_tb.v
+FD:/VLSI Programs/Verilog Labs/LAB - 5 MEMORY(RAM)/tb/ram_tb.v
+!i122 16
+L0 24 87
+R4
+r1
+!s85 0
+31
+R5
+!s107 D:/VLSI Programs/Verilog Labs/LAB - 5 MEMORY(RAM)/tb/ram_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/VLSI Programs/Verilog Labs/LAB - 5 MEMORY(RAM)/tb/ram_tb.v|
+!i113 1
+R6
+R7

@@ -1,0 +1,28 @@
+# Load canceled
+# Compile of full_adder.v was successful.
+# Compile of half_adder.v was successful.
+# Compile of full_adder_tb.v was successful.
+# Compile of half_adder_tb.v was successful.
+# 4 compiles, 0 failed with no errors.
+vsim -gui work.full_adder_tb
+# vsim -gui work.full_adder_tb 
+# Start time: 00:41:11 on May 17,2022
+# Loading work.full_adder_tb
+# Loading work.full_adder
+# Loading work.half_adder
+add wave sim:/full_adder_tb/FA1/*
+run -all
+# Input a=0,b=0,c=0, Output sum=0, carry=0
+# Input a=0,b=0,c=1, Output sum=1, carry=0
+# Input a=0,b=1,c=0, Output sum=1, carry=0
+# Input a=0,b=1,c=1, Output sum=0, carry=1
+# Input a=1,b=0,c=0, Output sum=1, carry=0
+# Input a=1,b=0,c=1, Output sum=0, carry=1
+# Input a=1,b=1,c=0, Output sum=0, carry=1
+# Input a=1,b=1,c=1, Output sum=1, carry=1
+# ** Note: $finish    : D:/VLSI Programs/Verilog Labs/LAB -1 FULL ADDER/tb/full_adder_tb.v(62)
+#    Time: 100 ps  Iteration: 0  Instance: /full_adder_tb
+# 1
+# Break in Module full_adder_tb at D:/VLSI Programs/Verilog Labs/LAB -1 FULL ADDER/tb/full_adder_tb.v line 62
+# End time: 00:41:54 on May 17,2022, Elapsed time: 0:00:43
+# Errors: 0, Warnings: 6

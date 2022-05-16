@@ -1,0 +1,44 @@
+# Compile of ram.v was successful.
+# Compile of ram_tb.v was successful with warnings.
+# 2 compiles, 0 failed with no errors.
+# Compile of ram.v was successful.
+# Compile of ram_tb.v was successful with warnings.
+# 2 compiles, 0 failed with no errors.
+# Compile of ram.v was successful.
+# Compile of ram_tb.v failed with 1 errors.
+# 2 compiles, 1 failed with 1 error.
+# Compile of ram.v was successful.
+# Compile of ram_tb.v failed with 1 errors.
+# 2 compiles, 1 failed with 1 error.
+# Compile of ram.v was successful.
+# Compile of ram_tb.v was successful with warnings.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.ram_tb
+# vsim -gui work.ram_tb 
+# Start time: 00:24:49 on May 17,2022
+# Loading work.ram_tb
+# Loading work.ram
+add wave -r sim:/ram_tb/DUT/*
+run -all
+# ** Note: $finish    : D:/VLSI Programs/Verilog Labs/LAB - 5 MEMORY(RAM)/tb/ram_tb.v(107)
+#    Time: 350 ps  Iteration: 0  Instance: /ram_tb
+# 1
+# Break in Module ram_tb at D:/VLSI Programs/Verilog Labs/LAB - 5 MEMORY(RAM)/tb/ram_tb.v line 107
+# Compile of ram.v was successful.
+# Compile of ram_tb.v was successful with warnings.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.ram_tb
+# End time: 00:32:19 on May 17,2022, Elapsed time: 0:07:30
+# Errors: 0, Warnings: 7
+# vsim -gui work.ram_tb 
+# Start time: 00:32:19 on May 17,2022
+# Loading work.ram_tb
+# Loading work.ram
+add wave -r sim:/ram_tb/DUT/*
+run -all
+# ** Note: $finish    : D:/VLSI Programs/Verilog Labs/LAB - 5 MEMORY(RAM)/tb/ram_tb.v(107)
+#    Time: 350 ps  Iteration: 0  Instance: /ram_tb
+# 1
+# Break in Module ram_tb at D:/VLSI Programs/Verilog Labs/LAB - 5 MEMORY(RAM)/tb/ram_tb.v line 107
+# End time: 00:38:49 on May 17,2022, Elapsed time: 0:06:30
+# Errors: 0, Warnings: 1
